@@ -1,0 +1,3 @@
+- Front End Dev
+- 4X Games
+- Android
