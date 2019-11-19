@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+- Front End Dev
+- 4X Games
+- Android
